@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gauthier Dewit</h1>
 <h3 align="center">A passionate laravel developer from brussels</h3>
-<p>I have a positive and friendly nature, and I have the ability to work in a team and lead a group to complete a project on time. I am also self-sufficient and self-taught, and I am not afraid to learn new programming languages. I can easily adapt to new challenges.</p>
+<p>I have a positive and friendly nature, and I have the ability to work in a team and lead a group to complete a project on time. 
+  <br/>I am also self-sufficient and self-taught, and I am not afraid to learn new programming languages. 
+  <br/>I can easily adapt to new challenges.</p>
 
 - 🔭 I’m currently working on **iLeo**
 
